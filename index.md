@@ -1,9 +1,14 @@
-# Neuron Template
+---
+date: 2021-03-04T17:16
+---
 
-You are viewing a template site that is generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+ooo
 
-Get started by reading [[README]]#.
+# My Zettelkasten
 
-Other pages on this zettelkasten:
 
-- [[faq]]#
+Round IV: [[iv_notes]]
+    - [[armed]]
+    - [[bourne]]
+    - [[leslie]]
+    - [[molvisions]]

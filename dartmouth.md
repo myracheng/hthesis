@@ -1,7 +1,7 @@
 ---
 date: 2021-03-11T22:18
 ---
-
+# Dartmouth workshop
 - [Dartmouth workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) funded by Rockefeller foundation, co-founded by Shannon @ Bell Labs
     - why does Rockefeller care about artificial intelligence?
         QQ i want to read how they got the funds!! the porposal to rockefeller

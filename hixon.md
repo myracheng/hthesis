@@ -1,7 +1,7 @@
 ---
 date: 2021-03-11T22:55
 ---
-**Hixon** Symposium on Cerebral Mechanisms in Behavior (Jeffress 1951)
+# **Hixon** Symposium on Cerebral Mechanisms in Behavior (Jeffress 1951)
 , a conference that joined together leading researchers in different areas related to cognitive science, including mathematicians Alan Turing and Claude Shannon and psychologist Karl Lashley.
 
 https://calteches.library.caltech.edu/923/1/Pump.pdf

@@ -6,9 +6,15 @@ ooo
 
 # My Zettelkasten
 
+Round V:
+- [[todos]]
+- [[v_notes]]
 
-Round IV: [[iv_notes]]
-    - [[armed]]
-    - [[bourne]]
-    - [[leslie]]
-    - [[molvisions]]
+Round IV: 
+- [[iv_notes]]
+
+Books:
+- [[armed]]
+- [[bourne]]
+- [[leslie]]
+- [[molvisions]]

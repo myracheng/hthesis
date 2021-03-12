@@ -2,7 +2,7 @@
 date: 2021-03-04T17:25
 ---
 
-# Leslie Book
+# The Cold War and American Science: The Military-industrial-academic Complex at MIT and Stanford by Stuart Leslie
 QQ Why isnt Caltech in here!
 Ch 6: slac
 Ch 5 nuclear eng:

@@ -106,3 +106,5 @@ RLE used as “model of excellence”.
 Ford Foundation gave $10m for revision of engineering program
 Smullin wanted to build for civilian technology, but received no support
 Reframed as economic competitiveness (civilian counterpart to DARPA)
+
+Terman 

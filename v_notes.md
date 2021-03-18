@@ -1,6 +1,7 @@
 ---
 date: 2021-03-05T12:51
 ---
+# Notes Part V
 divide between this --> 
 if everyone is commercializing their stuff, it bcomes natural for industry to partner with them.
 

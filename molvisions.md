@@ -68,7 +68,7 @@ physics/chem at apex of comtean ladder. little rspect for biologists, who are un
 Hixon Fund was established at the Institute to support research on human behavior.
 
 
-# interlude 1
+## interlude 1
 
 - describing diff perspectives/paradigms
 - protein paradigm vs classical genetics
@@ -79,3 +79,8 @@ Hixon Fund was established at the Institute to support research on human behavio
 - "UC boys" use novel tools that other ppl dont understand ||
 - "quantiative theories demonstrated nothing more than the hyponotic power of numerology" (115)
 - attempting to uncover mechanisms
+
+
+## approaches (mtg 2)
+- instrumententation: ultra centrifuge totally reframes how ppl r thinking about stuff 
+- biography

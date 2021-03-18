@@ -4,6 +4,13 @@ date: 2021-03-04T17:26
 # project description
 ## march 18
 
+- basically, i want to look specifically at the origins of these places. and then the argument that it leads into the present day is kind of more of a conclusion. like these partnerships have always existed.
+- incorporating bourne / nationalism / etc?
+- also possibly related to eugenics and the desire for control and stuff, like it originated from the same behavior workshop
+- structure:
+
+
+
 Partnerships between corporations and universities in conducting research and making progress are commonplace in the fields of artificial intelligence, machine learning, and data science, from research centers funded entirely by Big Tech to professors holding full-time industry positions.
 
 Corporate interests shape the directions of universities' artificial intelligence and machine learning research, challenging the research university's image as an ivory tower devoted to knowledge for knowledge's sake.
@@ -11,11 +18,6 @@ Corporate interests shape the directions of universities' artificial intelligenc
 I argue that this relationship is not a radical departure from the previous structure of the university as an "institution of objective higher learning” but rather a natural continuation of the university's political and economic connections. Using the examples of Caltech, Stanford, and Berkeley, I focus on the origins of these research topics in the _70's? 80's?_ as arising from electrical engineering, a field that has been heavily shaped by the partnerships between military, academia, and cooperations, i.e. the  “Military-Industrial-Academic Complex”, well before the existence of artificial intelligence.
 
 The inextricable ties among these actors during World War II and the Cold War illuminates how the structures of these partnerships shape research intentions as well as the discoveries' societal implications well into the current day.
-
-- basically, i want to look specifically at the origins of these places. and then the argument that it leads into the present day is kind of more of a conclusion. like these partnerships have always existed.
-- incorporating bourne / nationalism / etc?
-- structure:
-
 
 
 

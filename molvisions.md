@@ -84,3 +84,17 @@ Hixon Fund was established at the Institute to support research on human behavio
 ## approaches (mtg 2)
 - instrumententation: ultra centrifuge totally reframes how ppl r thinking about stuff 
 - biography
+
+## ch 5
+- cooperation model after corporations
+- this book makes me feel dumb
+rockefeller gift to caltech was aimed at the biological improvemnet of the race 156
+
+## ch6 
+immunology
+war
+providided continuity, prestige, and resoruces
+"complex web of corporate science"
+strengthen caltechs position. war projects coordinated between government univerisites nad companies [22]
+
+war is good for interdisciplinarity :*

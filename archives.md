@@ -3,7 +3,7 @@ date: 2021-03-04T18:11
 ---
 sc0216
 
-# archives
+# archives - initial look
 ## Stanford
 key : terman and mccarthy and whitlow?
 
@@ -48,6 +48,7 @@ Henry Borsook Papers, 1958-1983
 - moved to Berkeley
 
 - Gilbert McCann: **the driving force behind computing at Caltech** for 25 years, starting in 1946 with an analog computer that he invented, continuing through the time when new materials, miniaturization, and software transformed digital computing and made the analog obsolete.
+
 - [Carver Mead](https://oac.cdlib.org/findaid/ark:/13030/c8k64qc0/) !!!! EE , gordon and moore before shuki bruck.
 
 ee -> info science?

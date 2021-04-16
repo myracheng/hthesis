@@ -2,6 +2,18 @@
 date: 2021-03-04T17:26
 ---
 # project description
+
+- when did corporations start caring about analyzing behavior
+
+- spreadsheet of how google is funding rsrch
+
+- who was funding john mccarthy?
+
+
+- how AI was started/motivated by desire for social control since it was funded by ppl who are trying to figure out human behavior
+
+- CORPORATION partnerships
+
 ## march 18
 
 - basically, i want to look specifically at the origins of these places. and then the argument that it leads into the present day is kind of more of a conclusion. like these partnerships have always existed.

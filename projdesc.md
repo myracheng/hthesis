@@ -2,6 +2,73 @@
 date: 2021-03-04T17:26
 ---
 # project description
+## june 17
+My project focuses on the tensions between the camera-ready* narratives versus the lived realities at the frontiers of machine learning research. 
+
+First, the vision of Caltech** as an ivory tower devoted to "knowledge for knowledge's sake" whose very motto revolves around finding "truth" obscures the reality of corporate and military interests shaping the directions of its AI research. The inextricable ties among military, industry, and academia actors during World War II and the Cold War demonstrates how the structures of these partnerships shape research intentions and impacts. These connections, and the harms that they have caused to marginalized populations, call into question the normative value of the "societal problems" that research labs claim to focus on. I illuminate this gap by drawing parallels between historical events and communities to ones in the present day. (CSCR vs CS for Social Good, DARPA funding, etc)
+
+Another dimension of this tension lies in the gap between institutional efforts toward diversity, equity, etc. which render invisible the ongoing ways that the actual culture and values of research labs harm marginalized people.  I would like to construct a counterhistory of the values embedded in research labs and institutional diversity initiatives (GHC, SWE, orgs at Caltech and Stanford) through oral histories with women graduate students and others (professors? staff? activists?).
+
+*idk what the right word for this is. "for the media?"
+**also Stanford, which explicitly has a "CS for social good" slant to their projects
+----------------------------------------------
+
+* how research are supposed to be for "social good" but are actually funded by military interests
+	- and how SG is always a reaction to military. 
+		- historical perspective: 
+* tensions between how institutions efforts toward diversity, equity, etc versus the actual cultures of the lab which is not welcoming toward ppl who aren't white men, and have values that 
+
+- how the former acts as a fig leaf for and renders invisible the latter
+
+i am interested in REVEALING this through oral histories.
+
+
+
+i am interested in the TENSIONS between
+* how research are supposed to be for "social good" but are actually funded by military interests
+	- and how SG is always a reaction to military. 
+		- historical perspective: 
+* tensions between how institutions efforts toward diversity, equity, etc versus the actual cultures of the lab which is not welcoming toward ppl who aren't white men, and have values that 
+
+- how the former acts as a fig leaf for and renders invisible the latter
+
+i am interested in REVEALING this through oral histories.
+
+## april 20
+
+Partnerships between corporations and universities in conducting research and making progress are commonplace in artificial intelligence (AI), from research centers funded entirely by Big Tech to professors holding full-time industry positions.
+
+The notion of corporate interests shaping the directions of universities' AI research challenges the research university's image as an ivory tower devoted to "knowledge for knowledge's sake."
+
+I argue that this relationship is not a radical departure from previous structures of the university and AI but rather a continuation of the systems that AI was built for and within. 
+
+Using the examples of Caltech, Stanford, and Berkeley, I explore the emergence of AI research topics, such as computer vision, as arising from partnerships among actors whose values permeate the present-day impacts of these technologies. These relationships are illuminated by:
+
+1) tracing the birth of these topics as rooted in electrical engineering, a field that has been heavily shaped by the partnerships between military, academia, and cooperations. The inextricable ties among these actors during World War II and the Cold War demonstrates how the structures of these partnerships shape research intentions and impacts.
+
+2) comparing with the field of cognitive science, whose disciplinary dominance and cultural permeation leveraged the premise of objectivity of science and is linked to eugenics movements of the 20th century.
+
+3) contrasting the dialogue around AI research and its impacts in the U.S. to that in China. This helps clarify how American tech companies have become transnational actors that take on roles previously performed by the government related to driving AI research. 
+
+## april 15
+---------
+Partnerships between corporations and universities in conducting research and making progress are commonplace in artificial intelligence (AI), from research centers funded entirely by Big Tech to professors holding full-time industry positions.
+
+The notion of corporate interests shaping the directions of universities' AI research challenges the research university's image as an ivory tower devoted to "knowledge for knowledge's sake."
+
+I argue that this relationship is not a radical departure from previous structures of the university and AI but rather a continuation of the systems that AI was built for and within. I focus on the ways that AI 
+
+<!-- , and the university's political and economic connections. -->
+
+Using the examples of Caltech, Stanford, and Berkeley, I focus on the emergence of AI research topics, such as computer vision, as arising from partnerships among actors whose values continue to shape and permeate these technologies and their present-day impacts. These relationships are illuminated by:
+
+1) tracing the birth of these topics as rooted in electrical engineering, a field that has been heavily shaped by the partnerships between military, academia, and cooperations. The inextricable ties among these actors during World War II and the Cold War illuminates how thestructures of these partnerships shape research intentions and impacts. 
+
+2) comparing with cognitive science, specifically the how and why of its rise to disciplinary dominance and cultural permeation - the premise of objectivity of science, motivations related to eugenics, etc.
+
+3) contrasting the dialogue around AI research in the U.S. to that in China. 
+------------------
+
 
 - when did corporations start caring about analyzing behavior
 

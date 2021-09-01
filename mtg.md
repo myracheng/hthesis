@@ -1,3 +1,220 @@
+
+# mtg 6/24
+danielle: rise and history of discourse of black excellence as an accomodationalist centrist liberalist discourse
+approach:
+ what are the thigns that are expected of these heroes, and how does this reflect the limitations that are being placed
+
+ nightmare "feminisms"
+ - think about 
+
+ youre a harvard professor, what power do you have
+
+ question to ask:
+ how do the different sorts of female heros if these eras reflect the patterns/trends of the development of these industries, as they pertain to the place of women and the power of women?
+
+ - how to weave in the social good part? 
+    - CPSR is a radical departure/protest politics
+        - social good is still within the system
+
+are there examples in the current industry that illustrate/highgliht the differences between approaches?
+- radical critique: we shouldnt do war
+
+- accomodationg/working within the constraints of that system
+
+are there female heroes who would be those protest/resistance heros
+- tale of two tech feminisms?
+
+what do i want ppl to be able to understand in the current day in a new day because they thought a lot more about how we got here.
+how can illuminating the historical dimensions of that problem, help us think about these issues more productively
+think about framing the main body of your research question, 
+1. what does it mean to be a woman in tech?
+2. what does it mean to do good or do better in tech?
+black liberation politics: *being who u are* / being someone who is not supposed to belong to a space, will always be a challenge to the space (not the dominant/hegemonic )
+    - personal level: individual women
+    - technical level: efforts in the industry
+1. a dark story?
+2. or give ppl new critiera for deciding 
+    - use narratives of women to highlight motivations and constraints for future/past movements
+(1 is necessary for 2.)
+
+2 is the point of 1, even if it's not explicit in the thesis
+- what is the possibility of crating good things in this industry. whe ndoes it work. what can foil efforts t od it.
+
+what are the conditions that act to excldue women
+- how do womens responses to those buttress or challenge those conditions?
+
+--> what this means for better/different futures
+
+lots of ppl critiquing sheryl sandberg, but no one is talking about *where it comes from and what does it mean for the future*
+
+black feminist/black liberation:
+    - undercommons, etc
+    - draw inspiration fro mit
+
+    
+# mtg 6/17
+
+topic: a nnarative of a failure to change. 
+backgorund: ai/cs/stem has a problem, which is that it has been furthered by, developed by, develoepd in the interests of and inside these halls of power
+
+dominant vlaes
+we used to think that computers were smart ppl brain bbs
+
+scholarly/community consensus: this is not the case. 
+an intellectual problem, a PR problem, an ethical problem (sexism)
+
+my original research : traditional approaches to representing and diversitifying meet the PR problem, how existing technologies of diversification and neoliberal accoutnability still underpin efforts to make tech ‘good” whic hconstrains the ability of tech to imagine + reinvent the ways that it operates
+
+big background: military corporate
+2nd big background: stem gender representaiotn and more recently race represeation
+
+concern about portrarying tech as good for society, falling back on the tools for representation as diversification.
+
+how those efforts produce certain results and negate the possilbiity of producign other results
+
+reaching out to ppl who have experience being diversity
+- talk thru how i think thorugh this problem versus how i think about this problem
+something that im taking for granted is what ppl have nvr thought about 
+
+claire, katie
+undergra dpeers
+
+psosbility of help ppl who r being invited into these spaces, think through the risks and the limits of walking into them
+
+walking into a space that’s not made for you, and then surviving and making menaingful progress
+
+making a prettier picture on top of the machine that exists
+
+why they struggle to make change , where and when to intervene
+
+
+diversity-friendly projects, older neoliberal approaches to diversity
+
+show what’s new and not new
+
+start reading hagiographies
+- hidden figures (they didnt ask to be the darlings of your diversity movement)
+- grace hopper
+“the cheesier the better”
+
+- what picture is being paitned about the solution to the diversity problem. 
+- what tropes persist over time
+- are they always talking about the same set of problems
+- what are the results?
+- why does timnit run into the static that she has, while grace hopper gets to have her conference. whats changingabout women and non-white ppls participations in these schemes, or whats changing about these schemes
+
+find 4-8 examples of diverse ppl, diverse projects
+	- at different points in time, different communities. read acorss all of these things and find what are the common strands, 
+
+
+ppl who r like “i felt like one of the boys”
+- totally abosred the values of male white space
+
+diversifying a white, het, male space
+- means bringing ppl into that space or replicating that space in other communities
+showing ppl several attempts + their outcomes
+
++ ppl who opt out. feminist groups who are deciding to do tech in other models
+
+possible oral histories:
+- placing it into context, makes it very poignant
+
+heart of project:
+- the heroes of each generation, we ask them to solve a problem that tehy cant possibly solve. but we are determined to give them credit for stuff
+    - martyrs who are “camera ready”
+        - in the process of making it ok, are they getting something for it too
+give me profiles as if youre developing characters/as a “cast”
+- who are they, whats their background, what are their outcomes, how do they connect to others
+- we are interested in how these people are used and portrayed. 
+    - not interested in who they are and 
+start writing the background of the primary PR problem: CS/big data/ai has historically been beholden to corporate and miltiary interests, and now ppl know. 
+-	 historigographical: reviwing what ppl are done 
+
+which voice for historical to critical narrative. 
+
+in background context: 
+- survey ``tech for good" projects that the largest corporations have embraced.
+
+
+
+------
+think about how u wnat to live life, set limits
+emotional
+personal identity, perosnal identity mixed with your job
+# mtg 4/29
+
+ethics of controlling that world has been migrated into the world of business
+- it's also philosophy and legal
+- business school 
+1. how do forms of labor become gender, how does gender influence labor
+- in STS, feminist history, economic history
+
+2. history of innovation as it relates to the gender balance
+
+TODO think about viability of specific labs
+TODO carver mead archives
+TODO drop peter a line
+
+TODO look at grace hopper's board
+/ claire <- her experience as a woman in science
+
+women in tech/women in AI
+- what the messages/missions are
+- find these organizations at different periods in time and get a sense of 
+
+timnit would have been seen as success if we looked at it from earlier rubric of gender equality
+- corporation using female bipoc labor to take a pass on meaningfully confronting the ways that google perpetuates bigotry
+
+what would a wired magazine from 1990 say about this? where are these conversations happening in the industry, and what is the content of them over time
+
+start off really small scale
+
+- look at a specific lab
+ask more fine-grained questions, ask more questions about the culture of that lab
+    - doing a close/intimate history of what it's like to be in these sorts of situations
+    - collect oral histories
+        altering historical record
+            making these voices and stories part of the history
+
+longitudinal history : perspective of legacy of lab as its female students become PIs elsewhere
+if it's the case that female PIs bring a different set of values than their 
+    - then the labs run by women have identifiably different perspectives/values
+        - genealogically : look at one person and how the women r approaching things differently
+        - mass scale: are there consistent differences/distinctions between female and male
+
+3. what is the experience of being a woman in AI?
+[look at everyone at a specific time]
+- double labor: being a woman + making a space for other women + being a scientist and have to 
+- fairly well documented
+- what does it mean on a practical level to be a woman in this field?
+    - explicit discussions in VC
+- broad experience: here are all sorts of things that women 
+
+convo of public discourse to memory. 
+- what it means to be a woman for me rn vs 90s or 70s
+
+
+study speculative design: look at an artist, project, or batch of projects 
+- think about what alternative they illuminate and think about what it highlights about the status quo
+- looking for speculative
+     added distance, can see what they 
+    from old time frame
+
+-------
+
+telling a counter history:
+- how to recognize what assumptions are there
+    - feminist STS
+    - "ocularcentrism" <-- i didnt know what this was
+-  want to pick something very narrow
+    - e.g. the culture of a specific culture or the path of a specific person/community
+
+project ideas:
+- grace hopper:
+    - not actually challenging the values (telle whitney advised by carver mead)
+    --> current problems with "women in stem" corporate feminism
+-----------
+
 yaser oral history???
 # mtg 4/15
 feminist imagine allteratnves

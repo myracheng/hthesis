@@ -265,6 +265,7 @@ terms of the tracking, targeting, and communications tasks ofthe war.
 
 vision as tracking
 
+
 shannon, communication speech
 
 

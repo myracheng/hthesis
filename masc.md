@@ -1,4 +1,6 @@
+Powell, Abigail, Barbara Bagilhole, and Andrew Dainty. "How women engineers do and undo gender: Consequences for gender equality." Gender, work & organization 16.4 (2009): 411-428.
 # acting masculinely
+
 Women were found to actively perform masculinity, attempting to fit in with their male
 colleagues by showing that they did not require special treatment and by sharing
 their camaraderie:

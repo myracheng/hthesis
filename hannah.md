@@ -6,7 +6,7 @@ Readings:
 
 Question:
 - Grace Hopper: why was she chosen? (oral history with telle whitney)
-  - --> rhetorical analysis of why she is appealing to different sectors, while other "feminist" things (e.g. better working conditions) are not
+  - --> rhetorical analysis of why she is appealing to different sectors, while other "feminist" things (e.g. better working conditions, fixing economic ineq) are not
     - corporate/liberal feminism, military figure
 
 - efforts to get women into coding: imagining a better way of talking about STEM? TODO

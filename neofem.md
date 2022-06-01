@@ -44,8 +44,6 @@ social pressures, but rather on what ‘women can change themselves,’ their
 This subject willingly
 and forcibly acknowledges continued gender inequality but, as I show, her
 feminism is so individuated that it has been completely unmoored from any
-424 CULTURAL STUDIES
-Downloaded by [University of Aberdeen] at 05:57 16 November 2014 
 notion of social inequality and consequently cannot offer any sustained analytic
 of the structures of male dominance, power, or privilege
 

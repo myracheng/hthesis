@@ -17,7 +17,7 @@ map out the Grace Hopper Industrial Complex
   https://www.google.com/search?q=cultural+practices+of+white+supremacy+in+organizations
 
 https://coco-net.org/wp-content/uploads/2019/11/Coco-WhiteSupCulture-ENG4.pdf
-- how does this anecdote show smth about the tech world, and what is the antidote to it?
+- how does this anecdote show smth about the tech world, and what is the antidote to it?dd
 
 
 strands: (TODO TYPE UP)
